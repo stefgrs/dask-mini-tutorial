@@ -19,6 +19,10 @@ From within the folder dask-mini-tutorial, install the requirements:
 
 pip install -r requirements.txt
 
+Also need to install graphviz package. On Ubuntu this is done as sudo
+ apt-get install graphviz. On MAC, do brew install graphviz, 
+More info here: https://stackoverflow.com/questions/35064304/runtimeerror-make-sure-the-graphviz-executables-are-on-your-systems-path-aft
+
 Finally, open jupyter notebook by typing:
 
 jupyter notebook
