@@ -34,7 +34,7 @@ From within the folder dask-mini-tutorial, type:
 `pip install -r requirements.txt`
 
 
-### We also need to install the graphviz binaries. 
+### We also need to install the graphviz system library 
 
 - On Ubuntu this is done by typing `sudo apt-get install graphviz` (note: this is the only one I actually tested). 
 
