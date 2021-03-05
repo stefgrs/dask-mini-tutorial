@@ -46,6 +46,7 @@ From within the folder dask-mini-tutorial, type:
 	* Add C:\Program Files (x86)\Graphviz2.38\bin\dot.exe to System Path
  
 More info here on how to install graphviz at [this stackoverflow thread](https://stackoverflow.com/questions/35064304/runtimeerror-make-sure-the-graphviz-executables-are-on-your-systems-path-aft).
+For more details on the Windows installation also see [this link](https://forum.graphviz.org/t/new-simplified-installation-procedure-on-windows/224).
 
 ### Open jupyter notebook
 
