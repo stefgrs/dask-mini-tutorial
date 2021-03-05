@@ -27,7 +27,7 @@ _ = del_z.compute()
 
 # check all good with files
 data_folder = 'data/'
-scores_file_names = data_folder + 'score_group1.txt'
+scores_file_name = data_folder + 'score_group1.txt'
 
 with open(scores_file_name, 'r') as f:
 	data = f.read()
