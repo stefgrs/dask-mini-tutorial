@@ -4,7 +4,7 @@ Mini tutorial on Dask for CMS skills week.
 ## How to use
 Clone the github repo:
 
-git clone https://github.com/stefgrs/dask-mini-tutorial
+`git clone https://github.com/stefgrs/dask-mini-tutorial`
 
 Create a virtual environment or a conda environment. 
 
